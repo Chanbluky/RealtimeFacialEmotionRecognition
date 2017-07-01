@@ -7,7 +7,7 @@ takes pictures or webcam video as input. It detects all faces in each frame, and
 classifies which emotion each face is expressing.Then replaces each face with an emoji corresponding to that emotion.
 Recognized emotions:Neutral, Happy, Sad, Angry, and Surprise.
 
-Training accuracy was 91% and test accuracy was 57%, with the following requirements:
+Training accuracy was 91% and test accuracy was 75%, with the following requirements:
 - User's facial expression must be strong / exaggerated
 - Adequate Lighting (no shadows on face)
 - Camera is at eye level or slightly above eye level
